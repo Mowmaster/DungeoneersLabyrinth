@@ -1,0 +1,13 @@
+{
+  "itemGroup.dungeoneerslabyrinth": "Example Mod Tab",
+  "block.dungeoneerslabyrinth.example_block": "Example Block",
+  "item.dungeoneerslabyrinth.example_item": "Example Item",
+
+  "dungeoneerslabyrinth.configuration.title": "dungeoneerslabyrinth Configs",
+  "dungeoneerslabyrinth.configuration.section.dungeoneerslabyrinth.common.toml": "dungeoneerslabyrinth Configs",
+  "dungeoneerslabyrinth.configuration.section.dungeoneerslabyrinth.common.toml.title": "dungeoneerslabyrinth Configs",
+  "dungeoneerslabyrinth.configuration.items": "Item List",
+  "dungeoneerslabyrinth.configuration.logDirtBlock": "Log Dirt Block",
+  "dungeoneerslabyrinth.configuration.magicNumberIntroduction": "Magic Number Text",
+  "dungeoneerslabyrinth.configuration.magicNumber": "Magic Number"
+}
